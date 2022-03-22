@@ -1,0 +1,5 @@
+./python_installer/__pycache__/
+python_installer.egg-info/
+__pycache__/
+env/
+dist/
